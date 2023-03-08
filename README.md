@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Soy de Argentina y actualmente me encuentro viviendo en La Plata, Buenos Aires. 
 
 |comando | descripcion |
------------------------
+|--------|-------------|
 | 9      | git         | 
 | 5      | sudo        |
 | 3      | nvm         |
