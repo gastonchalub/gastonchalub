@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 # Hola soy Gaston Chalub
 ### Estudiante de Cs de Datos e IA
 Soy de Argentina y actualmente me encuentro viviendo en La Plata, Buenos Aires. 
+
 |comando | descripcion |
 -----------------------
 | 9      | git         | 
