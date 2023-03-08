@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Estudiante de Cs de Datos e IA
 Soy de Argentina y actualmente me encuentro viviendo en La Plata, Buenos Aires. 
 
-##COMANDOS MAS USADOS:
+## COMANDOS MAS USADOS:
 
 |comando | descripcion |
 |--------|-------------|
