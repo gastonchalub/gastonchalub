@@ -18,14 +18,4 @@ Here are some ideas to get you started:
 ### Estudiante de Cs de Datos e IA
 Soy de Argentina y actualmente me encuentro viviendo en La Plata, Buenos Aires. 
 
-## COMANDOS MAS USADOS:
-
-|comando | descripcion |
-|--------|-------------|
-| 9      | git         | 
-| 5      | sudo        |
-| 3      | nvm         |
-| 3      | node        |
-| 3      | alias       |  
-
 SALUDOS
