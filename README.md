@@ -24,11 +24,11 @@ Based in Santa Cruz, Argentina. I develop data-driven solutions with a focus on 
 ## Applied projects in development
 
 - **[boIA](https://github.com/gastonchalub/boIA):** cattle detection, tracking and exploratory weight estimation from imagery (public research prototype).
-- **Santa Cruz livestock forecasting:** time-series analysis of sheep populations.
+- **[Santa Cruz livestock forecasting](https://github.com/gastonchalub/santa-cruz-livestock-forecast):** time-series analysis of sheep populations.
 - **Santa Cruz demographic analysis:** population projections and data visualization.
 - **Remote sensing:** vegetation analysis with Sentinel-2 and NDVI.
 
-boIA notebooks and documentation are available; the remaining projects are being prepared for publication.
+boIA and Santa Cruz livestock forecasting are available; the remaining projects are being prepared for publication.
 
 ## Technical toolkit
 
