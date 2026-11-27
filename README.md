@@ -1,43 +1,45 @@
 # Gastón Chalub
 
-**Data Science & AI | Applied Machine Learning | Data Analytics**
+**Ciencia de Datos e Inteligencia Artificial | Aprendizaje Automático Aplicado | Análisis de Datos**
 
-Based in Santa Cruz, Argentina. I develop data-driven solutions with a focus on applied AI, agriculture, computer vision and regional analytics.
+Desde Santa Cruz, Argentina, desarrollo soluciones basadas en datos, con especial interés en la inteligencia artificial aplicada, el sector agropecuario, la visión artificial y el análisis regional.
 
-## About me
+## Sobre mí
 
-- Data Science and Artificial Intelligence student (InSET).
-- Cyber Defense undergraduate student (FADENA).
-- Bachelor's degree in Physical Education (UNLP).
-- Interested in data science, AI, analytics and automation opportunities.
+- Estudiante de Ciencia de Datos e Inteligencia Artificial (InSET).
+- Estudiante de la Licenciatura en Ciberdefensa (FADENA).
+- Licenciado en Educación Física (UNLP).
+- Abierto a oportunidades profesionales en datos, inteligencia artificial y automatización.
 
-## Selected public repositories
+## Proyectos destacados
 
-| Project | Focus |
+| Proyecto | Enfoque |
 | --- | --- |
-| [Fraud detection](https://github.com/gastonchalub/deteccion-de-fraude-con-machinelearning) | Applied machine learning |
-| [Provincial centrality and complexity](https://github.com/gastonchalub/centralidad-y-complejidad-por-provincia) | Regional data analysis |
-| [CNN digit recognition](https://github.com/gastonchalub/modelo-cnn-num) | Deep learning |
-| [House prices](https://github.com/gastonchalub/valor-de-casas) | Regression |
-| [Hotel booking](https://github.com/gastonchalub/hotel-booking-AdaBoost-GradientBoosting-XGBoost) | Ensemble learning |
+| [Detección de fraude](https://github.com/gastonchalub/deteccion-de-fraude-con-machinelearning) | Aprendizaje automático aplicado |
+| [Centralidad y complejidad por provincia](https://github.com/gastonchalub/centralidad-y-complejidad-por-provincia) | Análisis de datos regionales |
+| [Reconocimiento de dígitos mediante CNN](https://github.com/gastonchalub/modelo-cnn-num) | Aprendizaje profundo |
+| [Valor de viviendas](https://github.com/gastonchalub/valor-de-casas) | Regresión |
+| [Reservas hoteleras](https://github.com/gastonchalub/hotel-booking-AdaBoost-GradientBoosting-XGBoost) | Métodos de ensamble |
 
-## Applied projects in development
+## Proyectos aplicados en desarrollo
 
-- **[boIA](https://github.com/gastonchalub/boIA):** cattle detection, tracking and exploratory weight estimation from imagery (public research prototype).
-- **[Santa Cruz livestock forecasting](https://github.com/gastonchalub/santa-cruz-livestock-forecast):** time-series analysis of sheep populations.
-- **[Santa Cruz demographic analysis](https://github.com/gastonchalub/santa-cruz-demographic-analysis):** population projections and data visualization.
-- **[Remote sensing / Patagonia NDVI](https://github.com/gastonchalub/patagonia-ndvi-analysis):** vegetation analysis with Sentinel-2 and NDVI.
+- **[boIA](https://github.com/gastonchalub/boIA):** detección, seguimiento y estimación exploratoria del peso bovino mediante imágenes.
+- **[Data Aike](https://github.com/gastonchalub/data-aike):** análisis y comunicación de datos de Santa Cruz y la Patagonia, con visualizaciones editoriales y producción audiovisual.
+  - [¿Cómo fueron los últimos 22 años de Santa Cruz?](https://github.com/gastonchalub/data-aike/tree/main/stories/santa-cruz-2004-2026): análisis económico, productivo, laboral y fiscal.
+- **[Ganadería ovina de Santa Cruz](https://github.com/gastonchalub/santa-cruz-livestock-forecast):** análisis de series temporales y proyecciones exploratorias de existencias ovinas.
+- **[Análisis demográfico de Santa Cruz](https://github.com/gastonchalub/santa-cruz-demographic-analysis):** proyecciones poblacionales y visualización de datos.
+- **[Teledetección y NDVI en Patagonia](https://github.com/gastonchalub/patagonia-ndvi-analysis):** análisis de vegetación mediante imágenes satelitales Sentinel-2.
 
-- **[Data Aike](https://github.com/gastonchalub/data-aike):** regional data storytelling and editorial visualization.
+Los repositorios incluyen prototipos de investigación y reconstrucciones parciales, con sus alcances y limitaciones documentados.
 
-These repositories contain research prototypes and partial reconstructions, with limitations documented in each README.
-
-## Technical toolkit
+## Herramientas y tecnologías
 
 `Python` · `Pandas` · `SQL` · `scikit-learn` · `PyTorch` · `TensorFlow` · `YOLO` · `Power BI` · `QGIS` · `Git` · `Docker`
 
-## Interests
+## Áreas de interés
 
-Computer vision, forecasting, AgTech, automation, geospatial analytics and cybersecurity.
+Visión artificial, análisis predictivo, tecnología agropecuaria, automatización, análisis geoespacial y ciberseguridad.
 
-Open to professional opportunities in data and AI.
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/gastonchalub/)
